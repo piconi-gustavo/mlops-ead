@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Users/picon/OneDrive/Documents/P%C3%B3s%20Gradua%C3%A7%C3%A3o%20IA/13---Cultura-e-Pr-ticas-Dataops-e-Mlops-2024--2025-Oct-09_18-15-07-576/viewer/files/arquivos%20atualizados/mlruns/0/c789f7438c6144099a9240cc978ff6b0/artifacts
+end_time: 1760646701778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c789f7438c6144099a9240cc978ff6b0
+run_name: experiment_mlops_ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760646692707
+status: 3
+tags: []
+user_id: Gustavo
